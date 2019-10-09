@@ -1,2 +1,2 @@
 # elkvs
-ETS powered key-value REST accessible storage example
+DETS powered key-value REST accessible storage example
